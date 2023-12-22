@@ -1,1 +1,3 @@
+The Government of Ontario collects a huge amount of data on provincial programs and infrastructure, and much of it is provided as open data sets for public use. In this assignment, we’ll work with a particular dataset that contains information about provincially owned and maintained bridges in Ontario. All bridges in Ontario are reviewed every 2 years, and their information is collected to help determine when bridges need inspection and maintenance. In this assignment, we write several functions to help explore and process real data about the bridges in Ontario, and simulate how inspectors get assigned to various bridges.
 
+Each function includes a description and example calls in the docstring.
